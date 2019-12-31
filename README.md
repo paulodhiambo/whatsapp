@@ -8,8 +8,7 @@
 * etc
 
 ### APK
-Download apk file here [WhatsApp clone](https://github
-.com/paulodhiambo/whatsapp//screenshot/app-release.apk)
+Download apk file here [WhatsApp clone](https://github.com/paulodhiambo/whatsapp//screenshot/app-release.apk)
 
 ## Screenshots
 </br>
@@ -18,12 +17,14 @@ Download apk file here [WhatsApp clone](https://github
   <tr>
     <td>
 <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064617.png"/>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064617.png"/>
        <td><img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064624.png"/>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064624
+.png"/>
     </td>
      <td> <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064627.png"/></td>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064627
+.png"/></td>
   </table>
   </div>
 </br>
@@ -31,11 +32,14 @@ src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-06
   <table align="center" border="0" >
   <tr>
     <td> <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064633.png"/></td>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064633
+.png"/></td>
      <td> <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064643.png"/></td>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064643
+.png"/></td>
      <td> <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064647.png"/></td>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064647
+.png"/></td>
   </tr>
 </table>
   </div>
@@ -44,7 +48,8 @@ src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-06
   <table align="center" border="0" >
   <tr>
     <td> <img width="360"
-src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064654.png"/></td>
+src="https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/Screenshot_20191231-064654
+.png"/></td>
   </tr>
 </table>
   </div>
