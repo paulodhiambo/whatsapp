@@ -8,7 +8,7 @@
 * etc
 
 ### APK
-Download apk file here [WhatsApp clone](https://github.com/paulodhiambo/whatsapp//screenshot/app-release.apk)
+Download apk file here [WhatsApp clone](https://github.com/paulodhiambo/whatsapp/blob/master/screenshots/app-release.apk)
 
 ## Screenshots
 </br>
