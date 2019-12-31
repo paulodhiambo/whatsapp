@@ -1,16 +1,59 @@
-# whatsapp
+# WhatsApp Clone
+## Features
+* Chats
+* Status
+* Calls
+* Settings
+* New broadcast and new group
+* etc
 
-flutter whatsapp
+### APK
+Download apk file here [WhatsApp clone](https://github
+.com/paulodhiambo/whatsapp//screenshot/app-release.apk)
 
-## Getting Started
+## Screenshots
+</br>
+<div align="center">
+   <table align="center" border="0" >
+  <tr>
+    <td>
+<img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064617.png"/>
+       <td><img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064624.png"/>
+    </td>
+     <td> <img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064627.png"/></td>
+  </table>
+  </div>
+</br>
+<div align="center">
+  <table align="center" border="0" >
+  <tr>
+    <td> <img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064633.png"/></td>
+     <td> <img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064643.png"/></td>
+     <td> <img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064647.png"/></td>
+  </tr>
+</table>
+  </div>
+</br>
+<div align="center">
+  <table align="center" border="0" >
+  <tr>
+    <td> <img width="360"
+src="https://github.com/paulodhiambo/whatsapp/screenshots/Screenshot_20191231-064654.png"/></td>
+  </tr>
+</table>
+  </div>
+</br>
 
-This project is a starting point for a Flutter application.
+### License
 
-A few resources to get you started if this is your first Flutter project:
+* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Acknowledgments
+* Inspiration
+* etc
